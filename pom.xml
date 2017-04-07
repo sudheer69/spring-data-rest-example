@@ -4,7 +4,7 @@
 	<groupId>spring-data-rest-example</groupId>
 	<artifactId>spring-data-rest-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<properties>
 		<!-- 기본 설정 -->
